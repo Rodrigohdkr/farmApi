@@ -13,6 +13,6 @@ Uma API desenvolvida por mim para pequenas e grandes farmacias manterem os contr
 
 
 
-## ✒️ Autore
+## ✒️ Autor
 
 * **Rodrigo Galdino** - *Desenvolvedor* - [Github](https://github.com/Rodrigohdkr)
