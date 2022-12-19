@@ -1,2 +1,18 @@
 # farmApi
-Trabalho individual do terceiro modulo do curso de programação web fullstack do Senac-Bonsucesso-RJ
+Uma API desenvolvida por mim para pequenas e grandes farmacias manterem os controles de seus medicamentos.
+
+## Tecnologias utilizadas
+
+* JavaScript
+
+
+## Serviços utilizados
+
+* Github
+* Render
+
+
+
+## ✒️ Autore
+
+* **Rodrigo Galdino** - *Desenvolvedor* - [Github](https://github.com/Rodrigohdkr)
