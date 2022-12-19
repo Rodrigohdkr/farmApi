@@ -1,5 +1,8 @@
-# farmApi
+# FarmApi
 Uma API desenvolvida por mim para pequenas e grandes farmacias manterem os controles de seus medicamentos.
+
+# Link da aplicação:
+* https://dashboard.render.com/web/srv-cegcnbsgqg4bl46o1grg
 
 ## Tecnologias utilizadas
 
