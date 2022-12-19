@@ -3,30 +3,33 @@
     {
       "id": 1,
       "nome-med": "Neosaldina",
-      "autor_id": 1,
-      "genero_id": 1
+      "fornecedor_id": 1,
     },
     {
       "id": 2,
       "nome-med": "Engov",
-      "autor_id": 2,
-      "genero_id": 1
+      "fornecedor_id": 2,
     },
     {
       "id": 3,
       "nome-med": "Novalgina",
-      "autor_id": 3,
-      "genero_id": 1
+      "fornecedor_id": 3,  
     },
     {
       "id": 4,
       "nome-med": "Doralgina",
-      "autor_id": 4,
-      "genero_id": 4
-    }
+      "fornecedor_id": 4,
+    },
+    {
+      "id": 5,
+      "nome-med": "Dorflex",
+      "fornecedor_id": 5,
+     {
+    
+    
 
   ],
-  "Fornecedor": [
+  "Fornecedores": [
     {
       "id": 1,
       "nome": "Hypera Pharma"
@@ -42,6 +45,11 @@
     {
       "id": 4,
       "nome": "Neo Química"
+    },
+    
+    {
+      "id": 5,
+      "nome": "Sanofi"
     }
 
   ]
