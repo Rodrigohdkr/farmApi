@@ -1,0 +1,49 @@
+{
+  "Medicamentos": [
+    {
+      "id": 1,
+      "nome-med": "Neosaldina",
+      "autor_id": 1,
+      "genero_id": 1
+    },
+    {
+      "id": 2,
+      "nome-med": "Engov",
+      "autor_id": 2,
+      "genero_id": 1
+    },
+    {
+      "id": 3,
+      "nome-med": "Novalgina",
+      "autor_id": 3,
+      "genero_id": 1
+    },
+    {
+      "id": 4,
+      "nome-med": "Doralgina",
+      "autor_id": 4,
+      "genero_id": 4
+    }
+
+  ],
+  "Fornecedor": [
+    {
+      "id": 1,
+      "nome": "Hypera Pharma"
+    },
+    {
+      "id": 2,
+      "nome": "Brainfarma"
+    },
+    {
+      "id": 3,
+      "nome": "Sanofi-Aventis"
+    },
+    {
+      "id": 4,
+      "nome": "Neo Química"
+    }
+
+  ]
+ 
+}
