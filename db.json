@@ -3,32 +3,31 @@
     {
       "id": 1,
       "nome-med": "Neosaldina",
-      "fornecedor_id": 1,
+      "fornecedor_id": 1
     },
     {
       "id": 2,
       "nome-med": "Engov",
-      "fornecedor_id": 2,
+      "fornecedor_id": 2
     },
     {
       "id": 3,
       "nome-med": "Novalgina",
-      "fornecedor_id": 3,  
+      "fornecedor_id": 3 
     },
     {
       "id": 4,
       "nome-med": "Doralgina",
-      "fornecedor_id": 4,
+      "fornecedor_id": 4
     },
     {
       "id": 5,
       "nome-med": "Dorflex",
-      "fornecedor_id": 5,
-     {
+      "fornecedor_id": 5
+    }
     
-    
-
-  ],
+ ],
+  
   "Fornecedores": [
     {
       "id": 1,
