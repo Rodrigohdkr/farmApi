@@ -1,5 +1,5 @@
 # FarmApi
-Uma API desenvolvida por mim para pequenas e grandes farmacias manterem os controles de seus medicamentos.
+Uma API desenvolvida por mim para pequenas e grandes farmacias manterem o controles de seus medicamentos.
 
 # Link da aplicação:
 * https://farmapi.onrender.com
